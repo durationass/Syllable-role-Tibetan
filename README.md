@@ -183,19 +183,6 @@ Please cite the Fast-GeCo paper when using this code:
 }
 ```
 
-The vendored SpeechBrain code is Apache-2.0 licensed; other vendored components
-retain their original copyright and license notices. See the corresponding
-license files and source headers before redistributing modified copies.
-
-The `zang_data` dataset is released on Hugging Face under CC BY 4.0. It is
-constructed from NICT-Tib1 (OpenSLR SLR158) and MUSAN (OpenSLR SLR17), which
-must also be acknowledged. The original recordings remain subject to their
-respective source licenses and attribution requirements.
-
-The linked model repositories are public, but their current model cards do not
-declare a separate license. Check their terms before redistributing the model
-files or derived weights.
-
 ## License
 
 Original project-specific additions are released under the MIT License. See
